@@ -1,5 +1,5 @@
 # rpb_serials
-Homework from RPB. A serial number decoder built in React and Flask.
+A serial number decoder built in React and Flask.
 
 To run:
 ```
