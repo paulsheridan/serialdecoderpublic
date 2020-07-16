@@ -8,6 +8,7 @@ ENV PYTHONDONTWRITEBYTECODE 1
 ENV PYTHONUNBUFFERED 1
 ENV FLASK_ENV production
 ENV FLASK_APP run.py
+ENV GOOGLE_CLIENT_ID 161417844290-ueic5i3perjmooskhmoea4mk9a542mm1.apps.googleusercontent.com
 
 # install postgres client
 RUN apt update && \
