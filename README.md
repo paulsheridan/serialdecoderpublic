@@ -1,5 +1,5 @@
 # rpb_serials
-Homework from Rad Power Bikes. A serial number decoder built in React and Flask.
+Homework from RPB. A serial number decoder built in React and Flask.
 
 To run:
 ```
