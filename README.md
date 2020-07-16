@@ -16,4 +16,4 @@ Things that remain incomplete:
 * I'm sure you'll find a bug or two depending how long you poke at it.
 * Since this is a public repo, it's been purged of my google account data, so it will not run locally.
 
-Thank you so much for your consideration. I thoroughly enjoyed implementing this project. It gave me the option to use technologies I'm not all that familiar with. Flask and GraphQL are largely new to me and I learned a lot. 
+I thoroughly enjoyed implementing this project. It gave me the option to use technologies I'm not all that familiar with. Flask and GraphQL are largely new to me and I learned a lot. 
