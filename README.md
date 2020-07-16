@@ -14,6 +14,5 @@ Things that remain incomplete:
 * Docstrings are lackluster. Most don't follow Google spec and just provide a simple explaination for the class or method.
 * It's not pretty. I ran out of time to style the front end. It's usable, but not gorgeous.
 * I'm sure you'll find a bug or two depending how long you poke at it.
-* Since this is a public repo, it's been purged of my google account data, so it will not run locally.
 
 I thoroughly enjoyed implementing this project. It gave me the option to use technologies I'm not all that familiar with. Flask and GraphQL are largely new to me and I learned a lot. 
